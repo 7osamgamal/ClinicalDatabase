@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ClinicalDatabase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="patient_details">Patient Details</string>
+    <string name="hint_name">enter patient name</string>
+    <string name="patient_pain">enter patient pain</string>
+    <string name="patient_age">enter patient age</string>
+    <string name="aboutitem">about</string>
+    <string name="save">Save</string>
+    <string name="showdata">ShowData</string>
+    <string name="databasefrag">database</string>
+</resources>
